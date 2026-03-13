@@ -5,7 +5,7 @@ description: 生成影片字幕、設計字卡、影片介紹
 根據以下步驟執行：
 
 ## STEP 1: 轉字幕
-使用「audio-to-srt」的 Skill 將音檔轉成逐字稿
+使用「audio-to-srt」的 Skill 將音檔轉成逐字稿 
 
 
 ## STEP 2: 優化字幕
